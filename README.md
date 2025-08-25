@@ -1,4 +1,4 @@
-<h1>📘 LeetCode SQL 50 – Solutions by Sanchay Kumar Singh
+<h>📘 LeetCode SQL 50 – Solutions by Sanchay Kumar Singh
 </h1>
 Welcome to my repository! 🚀
 This project contains my solutions to the LeetCode SQL 50 problems, where I have practiced and mastered essential SQL concepts through hands-on problem solving.
