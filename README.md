@@ -1,5 +1,5 @@
-📘 LeetCode SQL 50 – Solutions by Sanchay Kumar Singh
-
+<h1>📘 LeetCode SQL 50 – Solutions by Sanchay Kumar Singh
+</h1>
 Welcome to my repository! 🚀
 This project contains my solutions to the LeetCode SQL 50 problems, where I have practiced and mastered essential SQL concepts through hands-on problem solving.
 
@@ -36,3 +36,8 @@ Window functions (RANK, DENSE_RANK, ROW_NUMBER)
 Subqueries & Nested Queries
 
 CASE WHEN conditions
+
+Name: Sanchay Kumar Singh <br/>
+Email: (mailto:sanchaysingh62425@gmail.com)<br/>
+GitHub:https://github.com/Sanchay-Kumar-Singh<br/>
+LinkedIn:https://www.linkedin.com/in/sanchay-kumar-singh-a48155297/
